@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Amol Limaye
+ * @author Abebe Lemma
  **/
 @Component
 public class ProductAssembler {
