@@ -11,7 +11,7 @@ http://localhost:8500
 Below 3 microservices use consul for external config and service discovery
 
 Ecommerce service
-Main service that lists ecommerce products through RESTful endpoint. http://localhost:9080/ecommerce-service/ecommerceProducts
+Main service that lists ecommerce products through RESTful endpoint. http://localhost:9080/github.com/ateferi/ecommerce-microservices/ecommerceProducts
 
 Add property key as
 config/ecommerceApp/useImages
